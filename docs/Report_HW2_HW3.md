@@ -26,5 +26,4 @@
 
 # отчет по выполнению заданий VM
 ## Задание 1: процесс разметки диска (скрин)
-![step 1](screenshots/LW_Step1.png)
-
+![Step 1](screenshots/LW_Step1.jpg)
